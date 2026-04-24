@@ -1,3 +1,5 @@
+#A Simple Python code to print Name, affiliation, gene and organism
+
 # User details
 name = "Dharshana Rajkumar"
 affiliation = "PSG College of Technology"
